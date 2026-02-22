@@ -1,0 +1,16 @@
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# 压缩与日志
+*.log
+*.zip
+*.tar.gz
+
+# 忽略本地自动化脚本 
+gm.sh 
+git+1.sh
+*.sh
